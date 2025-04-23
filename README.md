@@ -11,6 +11,8 @@ This project is an **IoT-based real-time cow behavior monitoring system** that c
 
 ## Demo Video
 
+
+
 ## 📌 Features
 
 - 📡 **Real-time Monitoring** of cow health parameters
