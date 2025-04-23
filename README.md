@@ -102,10 +102,12 @@ String chatID = "YOUR_CHAT_ID";
 ---
 
 ## 📷 Screenshots
+![WhatsApp Image 2025-04-23 at 08 02 44_0dd8ff1e](https://github.com/user-attachments/assets/642b488f-bc98-4287-9ecd-6483614e8956)
 
-(Add your Blynk dashboard and Telegram alert screenshots here)
 
----
+---![WhatsApp Image 2025-04-23 at 08 02 43_06e94c39](https://github.com/user-attachments/assets/d5b22dec-cfb3-449c-9914-abd2a591069b)
+
+![WhatsApp Image 2025-04-23 at 08 02 45_32424e52](https://github.com/user-attachments/assets/4a59c33b-ec10-4ec6-a663-109d3e78426c)
 
 ## ✅ Future Improvements
 
