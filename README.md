@@ -9,6 +9,8 @@ This project is an **IoT-based real-time cow behavior monitoring system** that c
 
 ---
 
+## Demo Video
+
 ## 📌 Features
 
 - 📡 **Real-time Monitoring** of cow health parameters
@@ -51,8 +53,7 @@ This project is an **IoT-based real-time cow behavior monitoring system** that c
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/cow-behavior-monitoring.git
-cd cow-behavior-monitoring
+git clone https://github.com/Prasana45/Detecting-abnormal-cow-behavior.git
 ```
 
 ### 2. Install Required Libraries
